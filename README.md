@@ -1,3 +1,5 @@
+[![Build Status](https://ci.inria.fr/grobid/buildStatus/icon?job=Grobid)](https://ci.inria.fr/grobid/job/Grobid/)
+
 youtube-dl - download videos from youtube.com or other video platforms
 
 - [INSTALLATION](#installation)
